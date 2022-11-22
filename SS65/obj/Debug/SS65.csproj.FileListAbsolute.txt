@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\bin\Debug\SS65.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\bin\Debug\SS65.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\bin\Debug\SS65.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS65\obj\Debug\SS65.pdb
