@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\bin\Debug\U2_Uyg22.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\bin\Debug\U2_Uyg22.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\bin\Debug\U2_Uyg22.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\obj\Debug\U2_Uyg22.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\obj\Debug\U2_Uyg22.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\obj\Debug\U2_Uyg22.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\obj\Debug\U2_Uyg22.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\obj\Debug\U2_Uyg22.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg22\obj\Debug\U2_Uyg22.pdb
