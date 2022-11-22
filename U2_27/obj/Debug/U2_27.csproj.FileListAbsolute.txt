@@ -7,3 +7,4 @@ C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_27\obj\Debug\U2_27.csproj.GenerateReso
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_27\obj\Debug\U2_27.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_27\obj\Debug\U2_27.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_27\obj\Debug\U2_27.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_27\obj\Debug\U2_27.csproj.AssemblyReference.cache

@@ -29,7 +29,7 @@ namespace U2_27
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(63, 12);
+            this.listBox1.Location = new System.Drawing.Point(51, 12);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(120, 134);
             this.listBox1.TabIndex = 0;

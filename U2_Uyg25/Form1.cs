@@ -19,9 +19,13 @@ namespace U2_Uyg25
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int  i = 10; i <= 10000; i = i * 10)
+            double us;
+            double kuvvet;
+            for (int i = 1; i < 5; i++)
             {
-                listBox1.Items.Add(i);
+                kuvvet = Math.Pow(10 , i);
+                listBox1.Items.Add(kuvvet);
+
             }
         }
     }

@@ -7,3 +7,4 @@ C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.csproj.Genera
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg25\obj\Debug\U2_Uyg25.csproj.AssemblyReference.cache

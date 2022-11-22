@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\bin\Debug\U2_29.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\bin\Debug\U2_29.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\bin\Debug\U2_29.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\obj\Debug\U2_29.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\obj\Debug\U2_29.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\obj\Debug\U2_29.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\obj\Debug\U2_29.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\obj\Debug\U2_29.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_29\obj\Debug\U2_29.pdb

@@ -19,6 +19,11 @@ namespace SS65
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+
+
+
+
             for (int i = 1; i <= 20; i++)
             {
                 listBox1.Items.Add(i);

@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\obj\Debug\U2_28.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\obj\Debug\U2_28.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\obj\Debug\U2_28.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\obj\Debug\U2_28.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\bin\Debug\U2_28.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\bin\Debug\U2_28.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\bin\Debug\U2_28.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\obj\Debug\U2_28.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_28\obj\Debug\U2_28.pdb

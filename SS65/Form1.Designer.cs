@@ -59,7 +59,7 @@ namespace SS65
             "18",
             "19",
             "20"});
-            this.listBox1.Location = new System.Drawing.Point(63, 42);
+            this.listBox1.Location = new System.Drawing.Point(61, 28);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(120, 173);
             this.listBox1.TabIndex = 0;

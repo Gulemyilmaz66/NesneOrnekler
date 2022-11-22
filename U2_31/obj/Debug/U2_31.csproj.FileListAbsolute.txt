@@ -1,0 +1,4 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.csproj.CoreCompileInputs.cache
