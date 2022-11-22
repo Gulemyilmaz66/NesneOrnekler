@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\bin\Debug\SS63.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\bin\Debug\SS63.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\bin\Debug\SS63.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\SS63\obj\Debug\SS63.pdb

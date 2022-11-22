@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_Uyg23
+namespace U2_24
 {
     public partial class Form1 : Form
     {
@@ -19,9 +19,16 @@ namespace U2_Uyg23
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 100; i <= 150; i = i + 5)
+            int sayi1, sayi2, toplam;
+            sayi1 = Convert.ToInt32(textBox1.Text);
+            sayi2 = Convert.ToInt32(textBox2.Text);
+            toplam = 0;
+            for (int i = sayi1; i <= sayi2; i++)
             {
-                comboBox1.Items.Add(i);
+                toplam = toplam + i;
+            }
+            {
+                MessageBox.Show("Sayıların Toplamı=" + toplam.ToString());
             }
         }
     }

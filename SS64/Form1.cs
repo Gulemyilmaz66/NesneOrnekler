@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_Uyg23
+namespace SS64
 {
     public partial class Form1 : Form
     {
@@ -19,9 +19,9 @@ namespace U2_Uyg23
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 100; i <= 150; i = i + 5)
+            for (int i = 110; i >= 10; i = i - 10)
             {
-                comboBox1.Items.Add(i);
+                listBox1.Items.Add(i);
             }
         }
     }

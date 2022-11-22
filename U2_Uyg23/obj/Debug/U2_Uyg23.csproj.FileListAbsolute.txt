@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\bin\Debug\U2_Uyg23.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\bin\Debug\U2_Uyg23.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\bin\Debug\U2_Uyg23.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg23\obj\Debug\U2_Uyg23.pdb

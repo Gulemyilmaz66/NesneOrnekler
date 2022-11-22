@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\bin\Debug\U2_24.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\bin\Debug\U2_24.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\bin\Debug\U2_24.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_24\obj\Debug\U2_24.pdb
