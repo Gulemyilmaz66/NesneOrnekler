@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_31
+namespace U2_66_2
 {
     public partial class Form1 : Form
     {
@@ -19,15 +19,13 @@ namespace U2_31
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ad = textBox1.Text;
-            for (int i = 0; i < listBox1.Items.Count; i++)
+            int sayac = 1, toplam = 0;
 
-
-            if (listBox1.Items[i].ToString() == ad)
+            while (sayac <=20)
             {
-                MessageBox.Show(listBox1.Items[i].ToString() + "adlı müşteri bulundu!");
-
-                break;
+                toplam = toplam + sayac;
+                listBox1.Items.Add(toplam);
+                sayac++;
             }
         }
     }

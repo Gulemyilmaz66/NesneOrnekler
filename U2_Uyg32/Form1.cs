@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_31
+namespace U2_Uyg32
 {
     public partial class Form1 : Form
     {
@@ -19,15 +19,21 @@ namespace U2_31
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ad = textBox1.Text;
-            for (int i = 0; i < listBox1.Items.Count; i++)
-
-
-            if (listBox1.Items[i].ToString() == ad)
+            int sayi1, sayının_karesi;
+            try
             {
-                MessageBox.Show(listBox1.Items[i].ToString() + "adlı müşteri bulundu!");
+                sayi1 = Convert.ToInt16(textBox1.Text);
+                sayının_karesi = sayi1 * sayi1;
+                MessageBox.Show(sayının_karesi.ToString());
+            }
+            catch
+            {
+                MessageBox.Show("Hatalı giriş yaptınız!");
 
-                break;
+            }
+            finally
+            {
+
             }
         }
     }

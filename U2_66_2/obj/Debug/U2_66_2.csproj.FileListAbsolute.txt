@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\bin\Debug\U2_66_2.exe.config
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\bin\Debug\U2_66_2.exe
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\bin\Debug\U2_66_2.pdb
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\obj\Debug\U2_66_2.Form1.resources
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\obj\Debug\U2_66_2.Properties.Resources.resources
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\obj\Debug\U2_66_2.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\obj\Debug\U2_66_2.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\obj\Debug\U2_66_2.exe
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_66_2\obj\Debug\U2_66_2.pdb
