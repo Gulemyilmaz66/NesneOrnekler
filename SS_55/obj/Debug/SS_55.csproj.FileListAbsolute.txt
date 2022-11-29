@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\bin\Debug\SS_55.exe.config
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\bin\Debug\SS_55.exe
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\bin\Debug\SS_55.pdb
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\obj\Debug\SS_55.Form1.resources
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\obj\Debug\SS_55.Properties.Resources.resources
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\obj\Debug\SS_55.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\obj\Debug\SS_55.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\obj\Debug\SS_55.exe
+C:\Users\Ogrenci\Destop\NesneOrnekler\SS_55\obj\Debug\SS_55.pdb

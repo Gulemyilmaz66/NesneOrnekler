@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\bin\Debug\U2_Goldsoru1.exe.config
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\bin\Debug\U2_Goldsoru1.exe
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\bin\Debug\U2_Goldsoru1.pdb
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.Form1.resources
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.Properties.Resources.resources
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.exe
+C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Goldsoru1\obj\Debug\U2_Goldsoru1.pdb
