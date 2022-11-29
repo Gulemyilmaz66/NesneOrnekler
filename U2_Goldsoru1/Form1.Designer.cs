@@ -37,11 +37,11 @@ namespace U2_Goldsoru1
             this.label3 = new System.Windows.Forms.Label();
             this.listBox4 = new System.Windows.Forms.ListBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.Doldur = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.listBox5 = new System.Windows.Forms.ListBox();
             this.label5 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -120,25 +120,15 @@ namespace U2_Goldsoru1
             this.label4.TabIndex = 6;
             this.label4.Text = "5 ile bölünebilen";
             // 
-            // Doldur
-            // 
-            this.Doldur.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.Doldur.Location = new System.Drawing.Point(24, 307);
-            this.Doldur.Name = "Doldur";
-            this.Doldur.Size = new System.Drawing.Size(113, 23);
-            this.Doldur.TabIndex = 8;
-            this.Doldur.Text = "Doldur";
-            this.Doldur.UseVisualStyleBackColor = false;
-            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button1.Location = new System.Drawing.Point(230, 296);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button1.Location = new System.Drawing.Point(12, 295);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(250, 45);
+            this.button1.Size = new System.Drawing.Size(149, 45);
             this.button1.TabIndex = 9;
-            this.button1.Text = "Aktar";
+            this.button1.Text = "doldur";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -163,13 +153,26 @@ namespace U2_Goldsoru1
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Aqua;
-            this.button2.Location = new System.Drawing.Point(595, 307);
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button2.Location = new System.Drawing.Point(291, 301);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(146, 33);
+            this.button2.Size = new System.Drawing.Size(171, 33);
             this.button2.TabIndex = 12;
-            this.button2.Text = "YENİLE";
+            this.button2.Text = "AKTAR";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Cyan;
+            this.button3.Location = new System.Drawing.Point(543, 302);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 13;
+            this.button3.Text = "yenile";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Form1
             // 
@@ -177,11 +180,11 @@ namespace U2_Goldsoru1
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(774, 347);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.listBox5);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.Doldur);
             this.Controls.Add(this.listBox4);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.listBox3);
@@ -207,11 +210,11 @@ namespace U2_Goldsoru1
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ListBox listBox4;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button Doldur;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ListBox listBox5;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 
