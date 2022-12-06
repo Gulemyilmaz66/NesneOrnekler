@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\bin\Debug\U2_SS_70.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\bin\Debug\U2_SS_70.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\bin\Debug\U2_SS_70.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS_70\obj\Debug\U2_SS_70.pdb

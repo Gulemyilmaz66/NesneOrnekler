@@ -11,3 +11,9 @@ C:\Users\Ogrenci\Destop\NesneOrnekler\U2_31\obj\Debug\U2_31.csproj.GenerateResou
 C:\Users\Ogrenci\Destop\NesneOrnekler\U2_31\obj\Debug\U2_31.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Destop\NesneOrnekler\U2_31\obj\Debug\U2_31.exe
 C:\Users\Ogrenci\Destop\NesneOrnekler\U2_31\obj\Debug\U2_31.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\bin\Debug\U2_31.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\bin\Debug\U2_31.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\bin\Debug\U2_31.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_31\obj\Debug\U2_31.csproj.AssemblyReference.cache

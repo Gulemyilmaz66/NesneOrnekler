@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\bin\Debug\U2_SS69_2.Uyg.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\bin\Debug\U2_SS69_2.Uyg.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\bin\Debug\U2_SS69_2.Uyg.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS69_2.Uyg\obj\Debug\U2_SS69_2.Uyg.pdb

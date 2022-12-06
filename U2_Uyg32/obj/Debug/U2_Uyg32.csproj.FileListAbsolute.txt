@@ -7,3 +7,12 @@ C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.csproj.Generat
 C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.exe
 C:\Users\Ogrenci\Destop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\bin\Debug\U2_Uyg32.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\bin\Debug\U2_Uyg32.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\bin\Debug\U2_Uyg32.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Uyg32\obj\Debug\U2_Uyg32.pdb
