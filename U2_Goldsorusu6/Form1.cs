@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace U2_Gold_Soru3
+namespace U2_Goldsorusu6
 {
     public partial class Form1 : Form
     {
@@ -17,41 +17,9 @@ namespace U2_Gold_Soru3
             InitializeComponent();
         }
 
-        private void rbmat_CheckedChanged(object sender, EventArgs e)
-        {
-            
-            txtNot1.Text = "";
-            txtNot2.Text = "";
-            txtNot3.Text = "";
-            label4.Text = "Matamatik ortalaması";
-        }
-
-        private void rbturk_CheckedChanged(object sender, EventArgs e)
-        {
-            txtNot1.Text = "";
-            txtNot2.Text = "";
-            txtNot3.Text = "";
-            label4.Text = "Türkce  ortalaması";
-        }
-
-        private void rbnesne_CheckedChanged(object sender, EventArgs e)
-        {
-            txtNot1.Text = "";
-            txtNot2.Text = "";
-            txtNot3.Text = "";
-            label4.Text = "Nesne ortalaması";
-        }
-
-        private void rbrobatik_CheckedChanged(object sender, EventArgs e)
-        {
-            txtNot1.Text = "";
-            txtNot2.Text = "";
-            txtNot3.Text = "";
-            label4.Text = "Robatik ortalaması";
-        }
-
         private void btnHesapla_Click(object sender, EventArgs e)
         {
+
             int Not1, Not2, Not3, ort;
 
             try
@@ -70,6 +38,24 @@ namespace U2_Gold_Soru3
                 {
                     ort = (Not1 + Not2 + Not3) / 3;
                     label5.Text = ort.ToString();
+
+                    if (rbmat.Checked)
+                    {
+                        progressBar1.Value = ort;
+                    }
+                    else if (rbturk .Checked )
+                    {
+                        progressBar2.Value = ort;
+                    }
+                    else if (rbnesne.Checked )
+                    {
+                        progressBar3.Value = ort;
+                    }
+                    else if (rbrobatik .Checked )
+                    {
+                        progressBar4.Value = ort;
+                    }
+
                 }
             }
             catch (Exception)
@@ -77,7 +63,6 @@ namespace U2_Gold_Soru3
 
                 MessageBox.Show("lütfen sayı giriniz");
             }
-
 
         }
     }

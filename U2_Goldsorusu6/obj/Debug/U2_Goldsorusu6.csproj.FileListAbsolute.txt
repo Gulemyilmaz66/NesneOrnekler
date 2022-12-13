@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\bin\Debug\U2_Goldsorusu6.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\bin\Debug\U2_Goldsorusu6.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\bin\Debug\U2_Goldsorusu6.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_Goldsorusu6\obj\Debug\U2_Goldsorusu6.pdb

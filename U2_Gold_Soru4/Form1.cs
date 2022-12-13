@@ -19,16 +19,39 @@ namespace U2_Gold_Soru4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < listBox1 .Items.Count ; i++)
+            int kucuksayi, buyuksayi;
+
+            try
             {
-                if (listBox1 .Items [i].ToString ()=="tek sayı"||listBox2 .Items [i].ToString ()=="cift sayı")
+                kucuksayi = Convert.ToInt32(textBox1.Text);
+                buyuksayi = Convert.ToInt32(textBox2.Text);
+
+                if (kucuksayi >buyuksayi )
                 {
-                    listBox1.Items.Add(listBox1.Items[i]);
+                    MessageBox.Show("Lütfen küçük sayı ,küçük olarak giriniz.küçük küçüklüğünü bilsin");
+
                 }
                 else
                 {
-                    listBox2.Items.Add(listBox1.Items[i]);
+                    for (int i = 0; i < buyuksayi ; i++)
+                    {
+                        if (i % 2 ==0)
+                        {
+                            listBox2.Items.Add(i);
+                        }
+
+                        else
+                        {
+                            listBox1.Items.Add(i);
+                        }
+                    }
                 }
+
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("lütfen  sayı giriniz");
             }
         }
     }
