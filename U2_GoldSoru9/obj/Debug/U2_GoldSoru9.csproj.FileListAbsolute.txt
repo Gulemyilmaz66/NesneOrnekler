@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\bin\Debug\U2_GoldSoru9.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\obj\Debug\U2_GoldSoru9.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\obj\Debug\U2_GoldSoru9.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\obj\Debug\U2_GoldSoru9.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\obj\Debug\U2_GoldSoru9.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\bin\Debug\U2_GoldSoru9.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\bin\Debug\U2_GoldSoru9.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\obj\Debug\U2_GoldSoru9.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru9\obj\Debug\U2_GoldSoru9.pdb
