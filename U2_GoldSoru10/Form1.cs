@@ -23,6 +23,7 @@ namespace U2_GoldSoru10
             {
                 listBox1.Items.Add(textBox1.Text);
             }
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -42,7 +43,6 @@ namespace U2_GoldSoru10
             {
                 MessageBox.Show("Bilgileri kontrol edin.");
             }
-
 
         }
 
@@ -65,11 +65,7 @@ namespace U2_GoldSoru10
                 }
             }
         }
-    }
-}
- 
- 
-  
-  
+
+
     }
 }

@@ -6,3 +6,4 @@ C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.Pro
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.csproj.GenerateResource.Cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GoldSoru10\obj\Debug\U2_GoldSoru10.csprojResolveAssemblyReference.cache
