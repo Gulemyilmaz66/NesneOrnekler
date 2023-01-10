@@ -10,36 +10,38 @@ namespace U3_S77
     {
         static void Main(string[] args)
         {
-            Diktorgen.diktorgen = new diktorgen(8, 10);
+            Console.Write("Dairenin yarıçapını giriniz: ");
+            int r = Convert.ToInt32(Console.ReadLine());
+            Daire daire = new Daire(r);
+            Console.WriteLine("Dairenin alanı : " + daire.alanhesapla());
+            Console.WriteLine("dairenin çevresi : " + daire.cevrehesapla());
+            Console.ReadLine();
 
-            console.WirtelLine("Diktörgenin Alanı:" + Diktorgen.AlanHesapla());
-            console.WirtelLine("Diktörgenin çevresi:" + Diktorgen.CevreHesapla());
-
-
-            console.ReadLine();
         }
     }
 
-        
-
-    class Diktorgen
+    class Daire
     {
-        private int a, b;
+        private int r;
+        private double pi = 3.14;
 
-        public Diktorgen()
+        public Daire(int r)
         {
-            this.a = a;
-            this.b = b;
+            this.r = r;
         }
-        public int AlanHesapla();
+        public double alanhesapla()
         {
-        return a* b;
+            return pi * r * r;
         }
+        public double cevrehesapla()
+        {
+            return 2 * pi * r;
+        }
+    }
 
-    public int CevreHesapla();
-         {
-           2*(a+b);
-         } 
-     }
- 
+}
+
+
+
+
 
