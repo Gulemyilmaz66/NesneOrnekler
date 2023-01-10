@@ -8,16 +8,16 @@ namespace U3_SS_106
 {
     public abstract class Kutupane
     {
-        public string  kitap { get; set; }
-        public string Dergi { get; set; }
-        public string Ansiklopedi { get; set; }
+        public string  kitapadi { get; set; }
+        public string Dergiadi { get; set; }
+        public string Ansiklopediadi { get; set; }
 
         public abstract void Oku();
     }
 
     public class kitap : Kutupane
     {
-
+        
         public override void Oku()
         {
             Console.WriteLine("Kitap Oku");
@@ -30,9 +30,9 @@ namespace U3_SS_106
         {
                 kitap ktp = new kitap
                 {
-                    kitap = "Aşkın Gezegeni"
+                    kitapadi = "Aşkın Gezegeni"
                 };
-            Console.Write("{0} adlı", ktp.kitap);
+            Console.Write("{0} adlı", ktp.kitapadi);
             Console.ReadLine();
         }
     }
