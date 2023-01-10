@@ -1,0 +1,7 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\bin\Debug\U3_SS_106.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\bin\Debug\U3_SS_106.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\bin\Debug\U3_SS_106.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\obj\Debug\U3_SS_106.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\obj\Debug\U3_SS_106.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\obj\Debug\U3_SS_106.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SS_106\obj\Debug\U3_SS_106.pdb
